@@ -142,4 +142,3 @@ Manus AI aims to become a reliable digital companion that empowers users to achi
 This project is licensed under the MIT License — free to use, modify, and distribute.
 
 
-Just tell me what Manus AI is built with!
