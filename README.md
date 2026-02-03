@@ -104,7 +104,7 @@ Productivity tools
 Customer service systems
 
 📦 Installation (Example)
-git clone https://github.com/yourusername/manus-ai.git
+git clone the link of this repository
 cd manus-ai
 npm install
 npm start
